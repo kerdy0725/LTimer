@@ -47,12 +47,13 @@ FIN_MESSAGE / FIN_COLOR : LT時間が過ぎてしまった場合に表示され�
 
 # Note
 
-注意点などがあれば書く
+開発には、下記ツールを利用させて頂きました。
+Visual Studio Community 2022 ver 17.9.3
+※Microsoftさん、ありがとー！！
 
 # Author
 
-* かーでぃ
-* かーでぃらぼ
+* かーでぃ / かーでぃらぼ
 * @_044722290292(X)
 
 # License
