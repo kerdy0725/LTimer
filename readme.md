@@ -60,6 +60,8 @@ Visual Studio Community 2022 ver 17.9.3
 
 ※Microsoftさん、ありがとー！！
 
+https://note.com/kerdy/n/ndfb08ef01edd
+
 # Author
 
 * かーでぃ / かーでぃらぼ
