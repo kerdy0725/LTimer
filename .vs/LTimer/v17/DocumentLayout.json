@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\git\\LTimer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3F00B3F-340A-4F4C-A4FA-0A9ADC7ED906}|LTimer.csproj|c:\\git\\ltimer\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3F00B3F-340A-4F4C-A4FA-0A9ADC7ED906}|LTimer.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3F00B3F-340A-4F4C-A4FA-0A9ADC7ED906}|LTimer.csproj|C:\\git\\LTimer\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{B3F00B3F-340A-4F4C-A4FA-0A9ADC7ED906}|LTimer.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3F00B3F-340A-4F4C-A4FA-0A9ADC7ED906}|LTimer.csproj|C:\\git\\LTimer\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3F00B3F-340A-4F4C-A4FA-0A9ADC7ED906}|LTimer.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3F00B3F-340A-4F4C-A4FA-0A9ADC7ED906}|LTimer.csproj|c:\\git\\ltimer\\ltimer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
-      "RelativeMoniker": "D:0:0:{B3F00B3F-340A-4F4C-A4FA-0A9ADC7ED906}|LTimer.csproj|solutionrelative:ltimer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+      "AbsoluteMoniker": "D:0:0:{B3F00B3F-340A-4F4C-A4FA-0A9ADC7ED906}|LTimer.csproj|c:\\git\\ltimer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F00B3F-340A-4F4C-A4FA-0A9ADC7ED906}|LTimer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B3F00B3F-340A-4F4C-A4FA-0A9ADC7ED906}|LTimer.csproj|C:\\git\\LTimer\\ltimer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{B3F00B3F-340A-4F4C-A4FA-0A9ADC7ED906}|LTimer.csproj|solutionrelative:ltimer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3F00B3F-340A-4F4C-A4FA-0A9ADC7ED906}|LTimer.csproj|C:\\git\\LTimer\\readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}",
-      "RelativeMoniker": "D:0:0:{B3F00B3F-340A-4F4C-A4FA-0A9ADC7ED906}|LTimer.csproj|solutionrelative:readme.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3F00B3F-340A-4F4C-A4FA-0A9ADC7ED906}|LTimer.csproj|C:\\git\\LTimer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3F00B3F-340A-4F4C-A4FA-0A9ADC7ED906}|LTimer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B3F00B3F-340A-4F4C-A4FA-0A9ADC7ED906}|LTimer.csproj|C:\\git\\LTimer\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3F00B3F-340A-4F4C-A4FA-0A9ADC7ED906}|LTimer.csproj|solutionrelative:form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +22,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\git\\LTimer\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -51,7 +35,8 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-16T03:57:17.904Z",
-              "IsPinned": true
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
@@ -71,7 +56,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form2.cs",
               "DocumentMoniker": "C:\\git\\LTimer\\Form2.cs",
               "RelativeDocumentMoniker": "Form2.cs",
@@ -79,13 +64,12 @@
               "RelativeToolTip": "Form2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T11:07:27.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-25T11:07:27.296Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LTimer",
+              "DocumentIndex": 1,
+              "Title": "LTimer.csproj",
               "DocumentMoniker": "C:\\git\\LTimer\\LTimer.csproj",
               "RelativeDocumentMoniker": "LTimer.csproj",
               "ToolTip": "C:\\git\\LTimer\\LTimer.csproj",
@@ -93,55 +77,6 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-03-25T09:37:57.262Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Form2.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "DocumentMoniker": "C:\\git\\LTimer\\Form2.cs",
-              "RelativeDocumentMoniker": "Form2.cs",
-              "ToolTip": "C:\\git\\LTimer\\Form2.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "RelativeToolTip": "Form2.cs [\u30C7\u30B6\u30A4\u30F3]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T09:31:56.807Z",
-              "EditorCaption": " [\u30C7\u30B6\u30A4\u30F3]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "readme.md",
-              "DocumentMoniker": "C:\\git\\LTimer\\readme.md",
-              "RelativeDocumentMoniker": "readme.md",
-              "ToolTip": "C:\\git\\LTimer\\readme.md",
-              "RelativeToolTip": "readme.md",
-              "ViewState": "AQIAABIAAAAAAAAAAABFwCMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-03-17T02:29:36.637Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LTimer",
-              "DocumentMoniker": "C:\\git\\LTimer\\LTimer.csproj",
-              "RelativeDocumentMoniker": "LTimer.csproj",
-              "ToolTip": "C:\\git\\LTimer\\LTimer.csproj",
-              "RelativeToolTip": "LTimer.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-03-25T09:38:16.775Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\git\\LTimer\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\git\\LTimer\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAG4AAAAAAAAAAAAQwJ4AAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-16T04:11:55.188Z",
-              "EditorCaption": ""
             }
           ]
         }
