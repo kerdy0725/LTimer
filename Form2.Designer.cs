@@ -81,8 +81,8 @@
             // 
             // pictureBox1
             // 
-            pictureBox1.Image = Properties.Resources.雷のフリーアイコン__1_;
-            pictureBox1.InitialImage = Properties.Resources.雷のフリーアイコン__1_;
+            pictureBox1.Image = (Image)resources.GetObject("pictureBox1.Image");
+            pictureBox1.InitialImage = (Image)resources.GetObject("pictureBox1.InitialImage");
             pictureBox1.Location = new Point(26, 24);
             pictureBox1.Name = "pictureBox1";
             pictureBox1.Size = new Size(48, 48);

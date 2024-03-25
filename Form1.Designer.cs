@@ -35,10 +35,10 @@
             label1 = new Label();
             contextMenuStrip1 = new ContextMenuStrip(components);
             settingToolStripMenuItem = new ToolStripMenuItem();
+            restartToolStripMenuItem = new ToolStripMenuItem();
             aboutLTimerToolStripMenuItem = new ToolStripMenuItem();
             toolStripMenuItem1 = new ToolStripSeparator();
             exitToolStripMenuItem = new ToolStripMenuItem();
-            restartToolStripMenuItem = new ToolStripMenuItem();
             contextMenuStrip1.SuspendLayout();
             SuspendLayout();
             // 
@@ -72,40 +72,40 @@
             // 
             contextMenuStrip1.Items.AddRange(new ToolStripItem[] { settingToolStripMenuItem, restartToolStripMenuItem, aboutLTimerToolStripMenuItem, toolStripMenuItem1, exitToolStripMenuItem });
             contextMenuStrip1.Name = "contextMenuStrip1";
-            contextMenuStrip1.Size = new Size(181, 120);
+            contextMenuStrip1.Size = new Size(165, 98);
             // 
             // settingToolStripMenuItem
             // 
             settingToolStripMenuItem.Name = "settingToolStripMenuItem";
-            settingToolStripMenuItem.Size = new Size(180, 22);
+            settingToolStripMenuItem.Size = new Size(164, 22);
             settingToolStripMenuItem.Text = "Open setting.xml";
             settingToolStripMenuItem.Click += settingToolStripMenuItem_Click;
+            // 
+            // restartToolStripMenuItem
+            // 
+            restartToolStripMenuItem.Name = "restartToolStripMenuItem";
+            restartToolStripMenuItem.Size = new Size(164, 22);
+            restartToolStripMenuItem.Text = "Restart";
+            restartToolStripMenuItem.Click += restartToolStripMenuItem_Click;
             // 
             // aboutLTimerToolStripMenuItem
             // 
             aboutLTimerToolStripMenuItem.Name = "aboutLTimerToolStripMenuItem";
-            aboutLTimerToolStripMenuItem.Size = new Size(180, 22);
+            aboutLTimerToolStripMenuItem.Size = new Size(164, 22);
             aboutLTimerToolStripMenuItem.Text = "about LTimer";
             aboutLTimerToolStripMenuItem.Click += aboutLTimerToolStripMenuItem_Click;
             // 
             // toolStripMenuItem1
             // 
             toolStripMenuItem1.Name = "toolStripMenuItem1";
-            toolStripMenuItem1.Size = new Size(177, 6);
+            toolStripMenuItem1.Size = new Size(161, 6);
             // 
             // exitToolStripMenuItem
             // 
             exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            exitToolStripMenuItem.Size = new Size(180, 22);
+            exitToolStripMenuItem.Size = new Size(164, 22);
             exitToolStripMenuItem.Text = "Exit";
             exitToolStripMenuItem.Click += exitToolStripMenuItem_Click;
-            // 
-            // restartToolStripMenuItem
-            // 
-            restartToolStripMenuItem.Name = "restartToolStripMenuItem";
-            restartToolStripMenuItem.Size = new Size(180, 22);
-            restartToolStripMenuItem.Text = "Restart";
-            restartToolStripMenuItem.Click += restartToolStripMenuItem_Click;
             // 
             // Form1
             // 

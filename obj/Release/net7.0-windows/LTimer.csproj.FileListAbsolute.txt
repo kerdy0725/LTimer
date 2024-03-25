@@ -16,3 +16,4 @@ C:\git\LTimer\obj\Release\net7.0-windows\LTimer.genruntimeconfig.cache
 C:\git\LTimer\obj\Release\net7.0-windows\ref\LTimer.dll
 C:\git\LTimer\obj\Release\net7.0-windows\LTimer.Form2.resources
 C:\git\LTimer\obj\Release\net7.0-windows\LTimer.Properties.Resources.resources
+C:\git\LTimer\obj\Release\net7.0-windows\LTimer.sourcelink.json

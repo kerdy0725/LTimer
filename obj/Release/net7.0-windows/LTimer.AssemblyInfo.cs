@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LTimer")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fc5d8f43f356b4f0b2b5ce4365ac0786c42a483c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ccde88a9753c5bf0af35821a77fbce431e246e69")]
 [assembly: System.Reflection.AssemblyProductAttribute("LTimer")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LTimer")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -61,12 +61,12 @@ namespace LTimer.Properties {
         }
         
         /// <summary>
-        ///   型 System.Drawing.Bitmap のローカライズされたリソースを検索します。
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
         /// </summary>
-        internal static System.Drawing.Bitmap 雷のフリーアイコン__1_ {
+        internal static System.Drawing.Icon LTimer {
             get {
-                object obj = ResourceManager.GetObject("雷のフリーアイコン (1)", resourceCulture);
-                return ((System.Drawing.Bitmap)(obj));
+                object obj = ResourceManager.GetObject("LTimer", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
             }
         }
     }
