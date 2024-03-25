@@ -24,7 +24,14 @@ namespace LTimer
 
         private void Form2_Load(object sender, EventArgs e)
         {
-            label2.Text = "バージョン：" + Application.ProductVersion;
+            try
+            {
+                label2.Text = "バージョン：" + Application.ProductVersion.ToString().Split('+')[0];
+            }
+            catch
+            {
+                label2.Text = "バージョン：" + Application.ProductVersion;
+            }
         }
     }
 }
