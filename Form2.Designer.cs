@@ -66,7 +66,7 @@
             label3.Name = "label3";
             label3.Size = new Size(263, 23);
             label3.TabIndex = 2;
-            label3.Text = "(C)かーでぃらぼ All right Reserved.";
+            label3.Text = "(C)かーでぃらぼ All rights Reserved.";
             // 
             // button1
             // 
